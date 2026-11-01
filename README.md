@@ -16,12 +16,12 @@ Open http://localhost:3000. `PORT` overrides the port. `/health` is the deployme
 
 ## Deploy on Render
 
-Connect this GitHub repository and create a Blueprint using `render.yaml`, or create a free Node web service with build command `npm install --ignore-scripts` and start command `npm start`. No database required.
+Live: https://larp-learn.onrender.com. Free Render static site, build command `node --check public/app.js`, publish directory `public`. A matching Blueprint is included. The Node server is for local development. No database required.
 
 ## Current integrations
 
-- Render deployment configuration included; deployment must be verified in the dashboard.
-- Sentry organization: `robro-0j`, $180 promotional credit claimed. SDK connection pending project creation and a verified DSN. No fake monitoring or placeholder DSNs.
+- Render static deployment verified live.
+- Sentry organization: `robro-0j`, $180 promotional credit claimed. Browser error-monitoring project `larp-learn` created; official project loader integrated. No session replay or tracing enabled. Opt-in developer check: open `/?diagnostics=1` and send one test event.
 - No paid AI inference required; lessons and feedback are deterministic so the live demo remains reliable.
 
 ## Demo (3 minutes)

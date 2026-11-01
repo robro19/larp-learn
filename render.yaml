@@ -1,8 +1,6 @@
 services:
   - type: web
     name: larp-learn
-    runtime: node
-    plan: free
-    buildCommand: npm install --ignore-scripts
-    startCommand: npm start
-    healthCheckPath: /health
+    runtime: static
+    buildCommand: node --check public/app.js
+    staticPublishPath: public
