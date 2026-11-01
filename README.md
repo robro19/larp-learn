@@ -60,3 +60,5 @@ See `docs/JUDGING.md` for the rubric mapping and boundaries.
 The pitch tool uses local templates, not an AI inference service. The original API practice uses a clearly labelled simulation. The new story request labs make real HTTP requests to a demo API serving labelled sample data. Badges are playful practice acknowledgements, not professional certifications.
 
 Security advisory: RLS is enabled with no client policies because public table privileges are revoked and all access goes through the backend. The corresponding INFO notice is intentional; see [Supabase linter explanation](https://supabase.com/docs/guides/database/database-linter?lint=0008_rls_enabled_no_policy). Live verification covered two separate guests, shared inventory equality, scoring, successful-answer locks, concurrent attempt enforcement, and board field privacy.
+
+QR invites render locally using MIT-licensed qrcode-generator 2.0.4, vendored from the npm registry with tarball SHA-512 integrity verification. No QR generation service receives invite links.
