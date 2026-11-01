@@ -36,7 +36,7 @@ Project `larp-learn` in `robro-0j`; official browser loader connected. A real in
 
 ## Agentboxd email
 
-The backend implements a fixed-content, user-requested skills receipt via the official Agentboxd send endpoint. Set `AGENTBOXD_API_KEY` and `AGENTBOXD_INBOX_ID` in Supabase Edge Function secrets. Never put them in public frontend files. The page truthfully reports whether email is configured. Requires mission completion and explicit one-time email consent. Limits: one per guest/recipient per 24 hours and a global daily cap. It does not subscribe anyone to a newsletter. Provider acceptance means queued, not confirmed delivered.
+Verified end to end: a receipt sent through the live app arrived in the Robro Gmail inbox. Builder benefit active until December 1, 2026. A send-only key scoped to larpy-larpclub@homingbox.net is stored in encrypted Supabase secrets and expires December 1. The backend implements a fixed-content, user-requested skills receipt via the official Agentboxd send endpoint. To reconfigure, set `AGENTBOXD_API_KEY` and `AGENTBOXD_INBOX_ID` in Supabase Edge Function secrets. Never put them in public frontend files. The page truthfully reports whether email is configured. Requires mission completion and explicit one-time email consent. Limits: one per guest/recipient per 24 hours and a global daily cap. It does not subscribe anyone to a newsletter. Provider acceptance means queued, not confirmed delivered.
 
 ## Demo
 
