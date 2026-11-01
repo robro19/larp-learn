@@ -41,7 +41,7 @@ npm start
 npm test
 ```
 
-Local development: http://localhost:3000. Render publishes `public/` as a free static site. Build command: `node --check public/app.js`. Public-source deployments require a manual deploy in Render after source changes.
+Local development: http://localhost:3000. The local server serves correct MP4 and WebVTT types (demo captions play), and supports gzip, HEAD requests, and ETag revalidation; `npm test` includes regression checks for those. Render publishes `public/` as a free static site. Build command: `node --check public/app.js`. Public-source deployments require a manual deploy in Render after source changes.
 
 ## Backend
 
