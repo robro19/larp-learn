@@ -11,6 +11,7 @@ No sign-up, payment, or API key is needed to play. Use a recent desktop or phone
 3. A wrong reply gets a consequence and explanation. Pick another reply and try again.
 4. When asked to scope the product, select exactly two items. Tap a selected item again to remove it.
 5. Use **Break character · ask Larpy** whenever you want a hint.
+6. On a keyboard, press **1–9** to pick the reply shown at that position, or **Enter** to activate the enabled check/next button. Shortcuts stay out of the way while you are typing.
 6. In the request lab, choose **GET**, enter **/demo-snacks**, and press **Send real request**. The app calls a real demo server. Try POST for a 405 response or the outage preset for a deliberate 503, then recover with GET /demo-snacks.
 7. Finish the remaining scenes and open your skills debrief. Replaying a solved scene does not award more XP.
 

@@ -30,7 +30,7 @@ See the [complete usage guide](docs/HOW-TO-USE.md) for every mode, email receipt
 - Supporting persona studio, startup pitch machine with saved output, buzzword decoder, and three-round stand-up simulator.
 - Earn the Flex: six-step API mission, request simulator, JSON exercises, word-tile final challenge.
 - XP, earned achievements, local persistence, and a private guest cloud save.
-- Original simplified Larpy SVG mascot. English UI, keyboard-accessible controls, responsive layouts, reduced-motion support.
+- Original simplified Larpy SVG mascot. English UI, keyboard-accessible controls, responsive layouts, reduced-motion support. In stories and lessons, number keys choose answers and Enter activates the footer, without hijacking typing or native controls.
 
 ## Run and test
 

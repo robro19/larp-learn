@@ -2,5 +2,5 @@ services:
   - type: web
     name: larp-learn
     runtime: static
-    buildCommand: node --check public/app.js
+    buildCommand: node --check public/app.js && node --check public/shortcuts.js
     staticPublishPath: public
