@@ -1,13 +1,15 @@
-# Demo production notes
+# Presentation production notes
+
+Version 2 replaces the long captioned walkthrough with a short framed product reel.
 
 - **File:** `public/demo/larp-club-demo.mp4`
-- **Runtime:** 92 seconds, 1,104 frames at 12 fps
-- **Format:** 1280 × 720, H.264, yuv420p, MP4 with fast-start metadata
-- **Audio:** intentionally silent; on-screen captions carry the walkthrough
-- **Captions:** `public/demo/demo.vtt`
-- **Transcript:** [DEMO-TRANSCRIPT.md](DEMO-TRANSCRIPT.md)
-- **Chapter timings and capture evidence:** `public/demo/chapters.json`
+- **Runtime:** approximately 38 seconds
+- **Format:** 1920 × 1080, H.264/yuv420p, 24 fps, AAC stereo, MP4 with fast-start metadata
+- **Visual direction:** rounded floating product frame; emerald/gold light field; settled overview-to-detail camera moves
+- **Audio:** original procedural instrumental, mixed to a restrained background level; no spoken narration or third-party recording
+- **Visual guide:** [DEMO-TRANSCRIPT.md](DEMO-TRANSCRIPT.md)
+- **Crop boxes and timing:** `public/demo/chapters.json`
 
-All product views are actual browser captures of the deployed Larp Club app on November 1, 2026. Editorial title cards and explanatory footer captions were composed locally. No generated interface footage or fake cursor was used. The walkthrough is edited rather than a continuous real-time screen recording. Some intermediate story scenes are omitted; the debrief is from a completed founder role. The API error, successful response, Hot Seat answer, and 100-point group submission were performed in the app.
+The product pixels come from real browser captures. No generated interface or fake cursor is used. The camera moves and frame are editorial treatments around those captures. The edit is not a continuous screen recording. The original app's scores, XP cards, trophy/debrief statistics and leaderboard sequence are excluded, along with the old bottom caption strip and progress rule.
 
-The finished file was decoded completely with FFmpeg without errors. All 16 composed scenes were inspected in a contact sheet for framing and text. Room invites visible in the recording expire; create a room in the live app to obtain a current invite.
+The user-provided reference informed the rounded-frame treatment. Its branding, imagery, soundtrack and breakdown labels are not reused. The public video remains linked from the README and watch page.

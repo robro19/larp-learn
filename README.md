@@ -6,9 +6,9 @@ A playful tech alter ego playground built at LarpHacks 2026. Main track and inte
 
 [![Watch our Larp Club presentation](public/demo/poster.webp)](https://larp-learn.onrender.com/demo.html)
 
-**The video below is our presentation** — a captioned, silent walkthrough edited from real browser captures of the live app. It is the official demo we present to judges: it shows a wrong turn, useful feedback, an actual HTTP request, fresh-data practice, a shared room, server scoring, and the receipt form.
+**The video below is our presentation** — a 38-second product reel built from real website captures, with a floating rounded frame, focused camera moves, and original instrumental music. It shows a roleplay decision, useful feedback, an actual HTTP request, fresh-data practice, and the receipt form.
 
-**[Download the presentation video from this public repo](public/demo/larp-club-demo.mp4?raw=true)** · [Video transcript](docs/DEMO-TRANSCRIPT.md)
+**[Download the presentation video from this public repo](public/demo/larp-club-demo.mp4?raw=true)** · [Visual guide](docs/DEMO-TRANSCRIPT.md)
 
 ## Quick start for players
 

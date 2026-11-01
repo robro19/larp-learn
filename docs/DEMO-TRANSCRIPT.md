@@ -1,67 +1,51 @@
-# Larp Club demo transcript
+# Our presentation — visual guide
 
-Captioned silent walkthrough. Edited from real app screenshots captured on November 1, 2026. No generated interface footage or simulated cursor.
+A short product reel using real Larp Club website captures. Original instrumental music; no spoken narration. The edit uses a rounded floating frame and close-ups of the real interface. There are no burned-in footer captions, timeline/progress rules, XP cards, trophy metrics, or leaderboard footage.
 
-## 0:00 — Larp Club
+## 00:00:00.000–00:00:02.400 — You said you work in tech.
 
-Pretend you work in tech. Then someone asks a follow-up.
+Editorial typography.
 
-## 0:04 — Start with a role.
+## 00:00:02.400–00:00:06.000 — The actual website
 
-A tech roleplay game built at LarpHacks. No sign-up needed.
+Actual website capture, cropped and reframed to focus on this interaction.
 
-## 0:09 — The photo is the easy part.
+## 00:00:06.000–00:00:08.400 — The joke
 
-The joke gets you in. The follow-up question gets you learning.
+Actual website capture, cropped and reframed to focus on this interaction.
 
-## 0:13 — Pick your situation.
+## 00:00:08.400–00:00:12.000 — A real decision
 
-Play the founder, the incident responder, or the AI visionary.
+Actual website capture, cropped and reframed to focus on this interaction.
 
-## 0:18 — You are the founder now.
+## 00:00:12.000–00:00:15.600 — A wrong turn
 
-SnackOverflow has a pitch deck. You still have to decide what to ship.
+Actual website capture, cropped and reframed to focus on this interaction.
 
-## 0:24 — Commit to a terrible plan.
+## 00:00:15.600–00:00:19.200 — Useful feedback
 
-Wrong replies get a comic consequence and a useful explanation.
+Actual website capture, cropped and reframed to focus on this interaction.
 
-## 0:30 — Then make a better decision.
+## 00:00:19.200–00:00:22.200 — A real 405 response
 
-Choose one usable flow. Learn what an MVP actually means.
+Actual website capture, cropped and reframed to focus on this interaction.
 
-## 0:36 — This error came from a real server.
+## 00:00:22.200–00:00:25.800 — A successful GET
 
-POST returns 405: that method is not supported for reading the menu.
+Actual website capture, cropped and reframed to focus on this interaction.
 
-## 0:42 — Fix the request. Get real JSON.
+## 00:00:25.800–00:00:28.800 — Fresh server data
 
-GET /demo-snacks returns 200 and sample inventory from our backend.
+Actual website capture, cropped and reframed to focus on this interaction.
 
-## 0:49 — A completed role comes with a debrief.
+## 00:00:28.800–00:00:31.800 — Read it. Work it out.
 
-See the skills practised during the story. Titles are just for fun.
+Actual website capture, cropped and reframed to focus on this interaction.
 
-## 0:55 — Now try data you have not seen before.
+## 00:00:31.800–00:00:34.800 — A one-time skills receipt
 
-The Hot Seat fetches fresh inventory. Type your answers without choices.
+Actual website capture, cropped and reframed to focus on this interaction.
 
-## 1:02 — Back up the confidence.
+## 00:00:34.800–00:00:38.400 — Learn to larp.
 
-Read the success code, add stock units, and count sold-out snacks.
-
-## 1:08 — Bring the group chat.
-
-Create a room and share its QR invite. Everyone gets the same inventory.
-
-## 1:15 — Let the server settle it.
-
-Three attempts. Scores of 100, 75, or 50. Refresh to see new submissions.
-
-## 1:21 — Take the skills with you.
-
-Request a one-time Agentboxd receipt after finishing a role. No mailing list.
-
-## 1:27 — Try it yourself.
-
-larp-learn.onrender.com  |  github.com/robro19/larp-learn
+Editorial typography.
