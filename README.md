@@ -62,3 +62,5 @@ The pitch tool uses local templates, not an AI inference service. The original A
 Security advisory: RLS is enabled with no client policies because public table privileges are revoked and all access goes through the backend. The corresponding INFO notice is intentional; see [Supabase linter explanation](https://supabase.com/docs/guides/database/database-linter?lint=0008_rls_enabled_no_policy). Live verification covered two separate guests, shared inventory equality, scoring, successful-answer locks, concurrent attempt enforcement, and board field privacy.
 
 QR invites render locally using MIT-licensed qrcode-generator 2.0.4, vendored from the npm registry with tarball SHA-512 integrity verification. No QR generation service receives invite links.
+
+Reliability: cloud/local completion merges by union, saves run serially with snapshots, and stale story/room responses cannot overwrite a later screen. Room result refresh preserves unfinished answers. QR generation loads only when a room opens. Font CSS is discovered from HTML with preconnect hints. Regression tests cover merge idempotence, ordered network saves, navigation during requests, and room-switch races.
