@@ -2,13 +2,13 @@
 
 A playful tech alter ego playground built at LarpHacks 2026. Main track and intended Render sub-track.
 
-**[Play the app](https://larp-learn.onrender.com/) · [Watch the 92-second demo](https://larp-learn.onrender.com/demo.html) · [How to use it](docs/HOW-TO-USE.md)**
+**[Play the app](https://larp-learn.onrender.com/) · [Watch our presentation](https://larp-learn.onrender.com/demo.html) · [How to use it](docs/HOW-TO-USE.md)**
 
-[![Watch the Larp Club demo](public/demo/poster.webp)](https://larp-learn.onrender.com/demo.html)
+[![Watch our Larp Club presentation](public/demo/poster.webp)](https://larp-learn.onrender.com/demo.html)
 
-**[Download the video from this public repo](public/demo/larp-club-demo.mp4?raw=true)** · [Video transcript](docs/DEMO-TRANSCRIPT.md)
+**The video below is our presentation** — a captioned, silent walkthrough edited from real browser captures of the live app. It is the official demo we present to judges: it shows a wrong turn, useful feedback, an actual HTTP request, fresh-data practice, a shared room, server scoring, and the receipt form.
 
-The demo is a captioned, silent walkthrough edited from real browser captures. It shows a wrong turn, useful feedback, an actual HTTP request, fresh-data practice, a shared room, server scoring, and the receipt form.
+**[Download the presentation video from this public repo](public/demo/larp-club-demo.mp4?raw=true)** · [Video transcript](docs/DEMO-TRANSCRIPT.md)
 
 ## Quick start for players
 
@@ -22,7 +22,7 @@ See the [complete usage guide](docs/HOW-TO-USE.md) for every mode, email receipt
 
 ## Features
 
-- Roleplay-first Larp Lounge with three complete branching scenarios: Founder for a Day (6 scenes), Production Is on Fire (4), and AI Visionary, Under Questioning (4).
+- Roleplay-first Larp Lounge with four complete branching scenarios: Founder for a Day (6 scenes), Director of Vibes Analytics (4), Production Is on Fire (4), and AI Visionary, Under Questioning (4).
 - Each scene has comic consequences, specific explanations, private progress saves, one-time XP, hints, replay, and an earned skills debrief.
 - Four original participant photos on the home page, with lighter, less promotional copy.
 - Shared group challenges: invite code/link, identical inventory, server-checked answers, three-attempt limit, and a generated-nickname results board. Scores lock after a correct answer; concurrent submissions cannot bypass the attempt cap.
@@ -61,7 +61,9 @@ Project `larp-learn` in `robro-0j`; official browser loader connected. A real in
 
 Verified end to end: a receipt sent through the live app arrived in the Robro Gmail inbox. Builder benefit active until December 1, 2026. A send-only key scoped to larpy-larpclub@homingbox.net is stored in encrypted Supabase secrets and expires December 1. The backend implements a role-aware, user-requested skills receipt via the official Agentboxd send endpoint. To reconfigure, set `AGENTBOXD_API_KEY` and `AGENTBOXD_INBOX_ID` in Supabase Edge Function secrets. Never put them in public frontend files. The page truthfully reports whether email is configured. Requires a completed role or original mission and explicit one-time email consent. Limits: one per guest/recipient per 24 hours and a global daily cap. It does not subscribe anyone to a newsletter. Provider acceptance means queued, not confirmed delivered.
 
-## Demo (3 minutes)
+## Presentation (3 minutes)
+
+The presentation is the video above (`public/demo/larp-club-demo.mp4`, hosted at `/demo.html`). If you demo live instead, follow these beats:
 
 1. Enter Founder for a Day. Show the premise: “You are the tech person now.”
 2. Try an overconfident wrong reply; show the comic consequence and specific explanation.
@@ -69,7 +71,7 @@ Verified end to end: a receipt sent through the live app arrived in the Robro Gm
 4. In the live demo lab, try POST /demo-snacks (405), then GET /demo-snacks (200). The response is from the actual Supabase Edge Function.
 5. Read the JSON, answer the investor without jargon, and open the skills debrief.
 6. Create a group challenge and share its code with a judge. Have them submit a fresh inventory answer and refresh the results board.
-7. Briefly show the other two playable roles, saved progress, and the receipt email.
+7. Briefly show the other three playable roles, saved progress, and the receipt email.
 
 See `docs/JUDGING.md` for the rubric mapping and boundaries.
 

@@ -1,6 +1,6 @@
 # How to use Larp Club
 
-**[Open the app](https://larp-learn.onrender.com/) · [Watch the demo](https://larp-learn.onrender.com/demo.html) · [Download the MP4](../public/demo/larp-club-demo.mp4?raw=true)**
+**[Open the app](https://larp-learn.onrender.com/) · [Watch our presentation](https://larp-learn.onrender.com/demo.html) · [Download the MP4](../public/demo/larp-club-demo.mp4?raw=true)**
 
 No sign-up, payment, or API key is needed to play. Use a recent desktop or phone browser.
 
