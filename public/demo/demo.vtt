@@ -1,0 +1,65 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.000
+Larp Club
+Pretend you work in tech. Then someone asks a follow-up.
+
+00:00:04.000 --> 00:00:09.000
+Start with a role.
+A tech roleplay game built at LarpHacks. No sign-up needed.
+
+00:00:09.000 --> 00:00:13.000
+The photo is the easy part.
+The joke gets you in. The follow-up question gets you learning.
+
+00:00:13.000 --> 00:00:18.000
+Pick your situation.
+Play the founder, the incident responder, or the AI visionary.
+
+00:00:18.000 --> 00:00:24.000
+You are the founder now.
+SnackOverflow has a pitch deck. You still have to decide what to ship.
+
+00:00:24.000 --> 00:00:30.000
+Commit to a terrible plan.
+Wrong replies get a comic consequence and a useful explanation.
+
+00:00:30.000 --> 00:00:36.000
+Then make a better decision.
+Choose one usable flow. Learn what an MVP actually means.
+
+00:00:36.000 --> 00:00:42.000
+This error came from a real server.
+POST returns 405: that method is not supported for reading the menu.
+
+00:00:42.000 --> 00:00:49.000
+Fix the request. Get real JSON.
+GET /demo-snacks returns 200 and sample inventory from our backend.
+
+00:00:49.000 --> 00:00:55.000
+A completed role comes with a debrief.
+See the skills practised during the story. Titles are just for fun.
+
+00:00:55.000 --> 00:01:02.000
+Now try data you have not seen before.
+The Hot Seat fetches fresh inventory. Type your answers without choices.
+
+00:01:02.000 --> 00:01:08.000
+Back up the confidence.
+Read the success code, add stock units, and count sold-out snacks.
+
+00:01:08.000 --> 00:01:15.000
+Bring the group chat.
+Create a room and share its QR invite. Everyone gets the same inventory.
+
+00:01:15.000 --> 00:01:21.000
+Let the server settle it.
+Three attempts. Scores of 100, 75, or 50. Refresh to see new submissions.
+
+00:01:21.000 --> 00:01:27.000
+Take the skills with you.
+Request a one-time Agentboxd receipt after finishing a role. No mailing list.
+
+00:01:27.000 --> 00:01:32.000
+Try it yourself.
+larp-learn.onrender.com  |  github.com/robro19/larp-learn

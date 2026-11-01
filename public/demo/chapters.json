@@ -1,0 +1,153 @@
+{
+  "duration": 92,
+  "fps": 12,
+  "width": 1280,
+  "height": 720,
+  "audio": "none; captions carry the walkthrough",
+  "chapters": [
+    {
+      "asset": null,
+      "source": "https://larp-learn.onrender.com/",
+      "start": 0.0,
+      "end": 4.0,
+      "title": "Larp Club",
+      "description": "Pretend you work in tech. Then someone asks a follow-up.",
+      "type": "editorial title card"
+    },
+    {
+      "asset": "01-home",
+      "source": "https://larp-learn.onrender.com/",
+      "start": 4.0,
+      "end": 9.0,
+      "title": "Start with a role.",
+      "description": "A tech roleplay game built at LarpHacks. No sign-up needed.",
+      "type": "real browser capture"
+    },
+    {
+      "asset": "02-photos",
+      "source": "https://larp-learn.onrender.com/",
+      "start": 9.0,
+      "end": 13.0,
+      "title": "The photo is the easy part.",
+      "description": "The joke gets you in. The follow-up question gets you learning.",
+      "type": "real browser capture"
+    },
+    {
+      "asset": "03-roles",
+      "source": "https://larp-learn.onrender.com/",
+      "start": 13.0,
+      "end": 18.0,
+      "title": "Pick your situation.",
+      "description": "Play the founder, the incident responder, or the AI visionary.",
+      "type": "real browser capture"
+    },
+    {
+      "asset": "04-story",
+      "source": "https://larp-learn.onrender.com/",
+      "start": 18.0,
+      "end": 24.0,
+      "title": "You are the founder now.",
+      "description": "SnackOverflow has a pitch deck. You still have to decide what to ship.",
+      "type": "real browser capture"
+    },
+    {
+      "asset": "05-wrong-turn",
+      "source": "https://larp-learn.onrender.com/",
+      "start": 24.0,
+      "end": 30.0,
+      "title": "Commit to a terrible plan.",
+      "description": "Wrong replies get a comic consequence and a useful explanation.",
+      "type": "real browser capture"
+    },
+    {
+      "asset": "06-learn",
+      "source": "https://larp-learn.onrender.com/",
+      "start": 30.0,
+      "end": 36.0,
+      "title": "Then make a better decision.",
+      "description": "Choose one usable flow. Learn what an MVP actually means.",
+      "type": "real browser capture"
+    },
+    {
+      "asset": "07-http-error",
+      "source": "https://larp-learn.onrender.com/",
+      "start": 36.0,
+      "end": 42.0,
+      "title": "This error came from a real server.",
+      "description": "POST returns 405: that method is not supported for reading the menu.",
+      "type": "real browser capture"
+    },
+    {
+      "asset": "08-http-success",
+      "source": "https://larp-learn.onrender.com/",
+      "start": 42.0,
+      "end": 49.0,
+      "title": "Fix the request. Get real JSON.",
+      "description": "GET /demo-snacks returns 200 and sample inventory from our backend.",
+      "type": "real browser capture"
+    },
+    {
+      "asset": "10-debrief",
+      "source": "https://larp-learn.onrender.com/",
+      "start": 49.0,
+      "end": 55.0,
+      "title": "A completed role comes with a debrief.",
+      "description": "See the skills practised during the story. Titles are just for fun.",
+      "type": "real browser capture"
+    },
+    {
+      "asset": "09-hotseat-data",
+      "source": "https://larp-learn.onrender.com/",
+      "start": 55.0,
+      "end": 62.0,
+      "title": "Now try data you have not seen before.",
+      "description": "The Hot Seat fetches fresh inventory. Type your answers without choices.",
+      "type": "real browser capture"
+    },
+    {
+      "asset": "11-hotseat-result",
+      "source": "https://larp-learn.onrender.com/",
+      "start": 62.0,
+      "end": 68.0,
+      "title": "Back up the confidence.",
+      "description": "Read the success code, add stock units, and count sold-out snacks.",
+      "type": "real browser capture"
+    },
+    {
+      "asset": "12-room-qr",
+      "source": "https://larp-learn.onrender.com/",
+      "start": 68.0,
+      "end": 75.0,
+      "title": "Bring the group chat.",
+      "description": "Create a room and share its QR invite. Everyone gets the same inventory.",
+      "type": "real browser capture"
+    },
+    {
+      "asset": "13-room-score",
+      "source": "https://larp-learn.onrender.com/",
+      "start": 75.0,
+      "end": 81.0,
+      "title": "Let the server settle it.",
+      "description": "Three attempts. Scores of 100, 75, or 50. Refresh to see new submissions.",
+      "type": "real browser capture"
+    },
+    {
+      "asset": "14-mail",
+      "source": "https://larp-learn.onrender.com/",
+      "start": 81.0,
+      "end": 87.0,
+      "title": "Take the skills with you.",
+      "description": "Request a one-time Agentboxd receipt after finishing a role. No mailing list.",
+      "type": "real browser capture"
+    },
+    {
+      "asset": null,
+      "source": "https://larp-learn.onrender.com/",
+      "start": 87.0,
+      "end": 92.0,
+      "title": "Try it yourself.",
+      "description": "larp-learn.onrender.com  |  github.com/robro19/larp-learn",
+      "type": "editorial title card"
+    }
+  ]
+}

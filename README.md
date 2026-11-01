@@ -2,7 +2,23 @@
 
 A playful tech alter ego playground built at LarpHacks 2026. Main track and intended Render sub-track.
 
-Live: https://larp-learn.onrender.com
+**[Play the app](https://larp-learn.onrender.com/) · [Watch the 92-second demo](https://larp-learn.onrender.com/demo.html) · [How to use it](docs/HOW-TO-USE.md)**
+
+[![Watch the Larp Club demo](public/demo/poster.webp)](https://larp-learn.onrender.com/demo.html)
+
+**[Download the video from this public repo](public/demo/larp-club-demo.mp4?raw=true)** · [Video transcript](docs/DEMO-TRANSCRIPT.md)
+
+The demo is a captioned, silent walkthrough edited from real browser captures. It shows a wrong turn, useful feedback, an actual HTTP request, fresh-data practice, a shared room, server scoring, and the receipt form.
+
+## Quick start for players
+
+1. Open the live app. No sign-up or API key is needed.
+2. Choose **Founder for a day**, select a reply, and press **Commit to the bit**.
+3. Use **Break character** for hints, recover from wrong turns, and finish the role for its skills debrief.
+4. Try **Larp Kit → The Hot Seat** for fresh data without answer choices.
+5. Choose **Start a group challenge** to invite friends or judges by QR code.
+
+See the [complete usage guide](docs/HOW-TO-USE.md) for every mode, email receipts, saved progress, troubleshooting, and local setup.
 
 ## Features
 
